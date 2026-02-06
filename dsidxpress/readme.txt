@@ -1,9 +1,9 @@
-=== WordPress IDX Real Estate Listings & MLS Search ===
+=== Diverse Solutions IDX Real Estate Listings & MLS Search ===
 Contributors: diversesolutions
 Tags: IDX, MLS, real estate, realtor, listings, property search, real estate agent, housing, SEO, lead capture, mobile friendly, customizable, diverse solutions, market leader, ds, marketleader, rets, idxpress, dsidxpress
 Requires at least: 4.5.0
 Tested up to: 6.4
-Stable tag: 3.19.0
+Stable tag: 3.19.1
 Requires PHP: 5.4.0
 
 Easily add mobile and SEO-friendly MLS listings to your website to attract & engage visitors, plus lead capture tools to turn them into clients.
@@ -11,11 +11,11 @@ Easily add mobile and SEO-friendly MLS listings to your website to attract & eng
 == Description ==
 **Get More Visitors & Leads From Your Real Estate WordPress Website**
 
-With WordPress IDX, you can easily add SEO and mobile-friendly MLS listings and property search widgets to your WordPress website to attract and engage more visitors. Powerful lead capture tools—like forms for scheduling showings and favoriting listings—will convert visitors into leads!
+With Diverse Solutions IDX, you can easily add SEO and mobile-friendly MLS listings and property search widgets to your WordPress website to attract and engage more visitors. Powerful lead capture tools—like forms for scheduling showings and favoriting listings—will convert visitors into leads!
 
-WordPress IDX is the only real estate IDX search plugin which offers live customer support, a marketing solution which delivers consistent website traffic, and IDX feeds from 730+ MLSs across the U.S. and Canada. 
+Our IDX is the only real estate IDX search plugin which offers live customer support, a marketing solution which delivers consistent website traffic, and IDX feeds from 730+ MLSs across the U.S. and Canada. 
 
-[Get a free trial today—install and set up WordPress IDX in minutes!](https://www.diversesolutions.com/solutions/idx-for-wordpress/)
+[Get a free trial today—install and set up Diverse Solutions IDX in minutes!](https://www.diversesolutions.com/solutions/idx-for-wordpress/)
 
 *(This plugin was formerly called dsIDXpress.)*
 
@@ -31,35 +31,35 @@ Visitors can easily find MLS listings on your website with user-friendly propert
 Turn visitors into leads with forms for scheduling showings, favoriting listings, saving property search criteria, and contacting you for more information. 
 
 **INSTALL & SET UP IN MINUTES**
-Easily install and set up WordPress IDX in minutes, with help from shortcodes and widgets. No web development experience is required. [Start your free trial today!](https://www.diversesolutions.com/solutions/idx-for-wordpress/)
+Easily install and set up Diverse Solutions IDX in minutes, with help from shortcodes and widgets. No web development experience is required. [Start your free trial today!](https://www.diversesolutions.com/solutions/idx-for-wordpress/)
 
 **LIVE CUSTOMER SUPPORT**
 In addition to in-depth support documentation, Diverse Solutions uniquely offers live onboarding help to get you up and running quickly.
 
 **MOBILE FRIENDLY**
-WordPress IDX’s mobile-friendly design ensures that visitors will have a great experience viewing listings on your website, regardless of which device they use.
+Our IDX’s mobile-friendly design ensures that visitors will have a great experience viewing listings on your website, regardless of which device they use.
 
 **SEO THAT WORKS**
-Get more free traffic to your website from Google and other search engines. WordPress IDX creates unique indexable listing pages, an XML sitemap, and optimized page titles.
+Get more free traffic to your website from Google and other search engines. Diverse Solutions IDX creates unique indexable listing pages, an XML sitemap, and optimized page titles.
 
 **EXTENSIVELY CUSTOMIZABLE**
-WordPress IDX automatically matches some of your website's styling, and the appearance of listings and widgets can be easily customized.
+Diverse Solutions IDX for WordPress automatically matches some of your website's styling, and the appearance of listings and widgets can be easily customized.
 
 **730+ AVAILABLE IDX FEEDS**
-WordPress IDX offers the best MLS coverage in the industry! Add listings from one or more of 730+ MLSs from across the U.S. and Canada to your website.
+Diverse Solutions IDX offers the best MLS coverage in the industry! Add listings from one or more of 730+ MLSs from across the U.S. and Canada to your website.
 
 **GET CONSISTENT TRAFFIC, TOO**
 Need more website traffic and leads? Our digital advertising experts can deliver a guaranteed number of unique visitors who are searching for listings in your local market—every single month. 
 
 **GET A FREE TRIAL**
-Test drive WordPress IDX on your real estate website today! [Get a free trial](https://www.diversesolutions.com/solutions/idx-for-wordpress/) or call us at 800-491-3608.
+Test drive Diverse Solutions IDX on your real estate website today! [Get a free trial](https://www.diversesolutions.com/solutions/idx-for-wordpress/) or call us at 800-491-3608.
 
 == Installation ==
-Install WordPress IDX on your website like you would install any other WordPress plugin.
+Install our IDX on your website like you would install any other WordPress plugin.
 
 **Install via the WordPress admin area:**
 1. In the WordPress admin area, visit "Plugins" > "Add New."
-2. Search for "WordPress IDX" or "dsIDXpress" using the search bar.
+2. Search for "Diverse Solutions IDX" or "dsIDXpress" using the search bar.
 3. Click "Install Now," and then "Activate Plugin."
 4. See the "Activation" section below.
 
@@ -70,7 +70,7 @@ Install WordPress IDX on your website like you would install any other WordPress
 
 **ACTIVATION**
 
-Once installed, WordPress IDX must be activated by entering the activation key for your free trial or paid subscription. Simply visit the "IDX" page linked to in the WordPress admin area sidebar and enter the activation key into the text box.
+Once installed, Diverse Solutions IDX must be activated by entering the activation key for your free trial or paid subscription. Simply visit the "IDX" page linked to in the WordPress admin area sidebar and enter the activation key into the text box.
 
 **Don't have an activation key?** Contact us to get one for your free trial, or sign up for a paid subscription:
 [Contact Us](https://www.diversesolutions.com/contact-us/)
@@ -79,46 +79,49 @@ sales@diversesolutions.com
 
 == Frequently Asked Questions ==
 
-= Can I get a free trial of WordPress IDX? =
+= Can I get a free trial of Diverse Solutions IDX? =
 
-Yes, we encourage you to test drive WordPress IDX on your website. [Get a free trial here](https://www.diversesolutions.com/solutions/idx-for-wordpress/) or by calling us at 800-491-3608.
+Yes, we encourage you to test drive Diverse Solutions IDX on your WordPress website. [Get a free trial here](https://www.diversesolutions.com/solutions/idx-for-wordpress/) or by calling us at 800-491-3608.
 
-The free trial uses sample IDX data to demonstrate how easy it is to add MLS listings to real estate websites using WordPress IDX.
+The free trial uses sample IDX data to demonstrate how easy it is to add MLS listings to real estate websites using our IDX.
 
-= Are listings from my MLS available with WordPress IDX? =
+= Are listings from my MLS available with Diverse Solutions IDX? =
 
-View our [MLS coverage](https://www.diversesolutions.com/idx-coverage/) to see if your MLS's IDX feed is available with WordPress IDX. Diverse Solutions has the largest MLS coverage in the industry, so it will likely be available. If it isn't, call us at 800-491-3608 and we'll inquire with your MLS about adding it to our coverage area.
+View our [MLS coverage](https://www.diversesolutions.com/idx-coverage/) to see if your MLS's IDX feed is available with Diverse Solutions IDX. We have the largest MLS coverage in the industry, so it will likely be available. If it isn't, call us at 800-491-3608 and we'll inquire with your MLS about adding it to our coverage area.
 
-= Which themes should WordPress IDX be used with? =
+= Which themes should Diverse Solutions IDX be used with? =
 
-This plugin is designed to be compatible with any WordPress website that is self hosted and uses WordPress 2.8 or above. You do not need to purchase or use any one specific theme to use WordPress IDX.
+This plugin is designed to be compatible with any WordPress website that is self hosted and uses WordPress 2.8 or above. You do not need to purchase or use any one specific theme to use our IDX for WordPress.
 
-= How much does WordPress IDX cost? =
+= How much does Diverse Solutions IDX cost? =
 
-[Learn about the features and pricing of WordPress IDX's subscription options.](https://www.diversesolutions.com/solutions/idx-for-wordpress/)
+[Learn about the features and pricing of our IDX's subscription options.](https://www.diversesolutions.com/solutions/idx-for-wordpress/)
 
-= Can I use WordPress IDX without being a member of an MLS? =
+= Can I use Diverse Solutions IDX without being a member of an MLS? =
 
 No. Due to the rules of the MLSs whose IDX feeds we offer, we can only provide activation keys to their members. 
 
-= Can I use WordPress IDX without an activation key if I'm a member of an MLS? =
+= Can I use Diverse Solutions IDX without an activation key if I'm a member of an MLS? =
 
-No. We require purchasing a WordPress IDX subscription in order to get an activation key. 
+No. We require purchasing a Diverse Solutions IDX subscription in order to get an activation key. 
 
-= How can I learn more about the WordPress IDX plugin? =
+= How can I learn more about the Diverse Solutions IDX plugin? =
 
-1. [Learn about the features and pricing of WordPress IDX's subscription options.](https://www.diversesolutions.com/solutions/idx-for-wordpress/) 
-2. [Visit our website for more FAQs about WordPress IDX.](https://www.diversesolutions.com/faq/)
+1. [Learn about the features and pricing of Diverse Solutions IDX's subscription options.](https://www.diversesolutions.com/solutions/idx-for-wordpress/) 
+2. [Visit our website for more FAQs about Diverse Solutions IDX for WordPress.](https://www.diversesolutions.com/faq/)
 
 == Screenshots == 
 
-1. WordPress IDX’s mobile-friendly design ensures that visitors will have a great experience viewing listings on your website, regardless of which device they use.
+1. Diverse Solutions IDX’s mobile-friendly design ensures that visitors will have a great experience viewing listings on your website, regardless of which device they use.
 2. Get detailed, up-to-date MLS listings on your website! Information about local schools, plus lists of similar and recently sold homes, are also pulled directly from your MLS’s IDX feed.
 3. We have the best MLS coverage in the industry! Get listings from one or more of 730+ MLSs across the U.S. and Canada on your website. 
 4. Visitors can easily find MLS listings on your website with user-friendly property search widgets, including a powerful map search tool and slideshows of highlighted properties.
 5. Turn visitors into leads with forms for scheduling showings, favoriting listings, saving property search criteria, and contacting you for more information.
 
 == Changelog ==
+
+= 3.19.1 =
+* Change Plugin Name to Diverse Solutions IDX
 
 = 3.19.0 =
 * Confirms the plugin is tested up to WordPress 6.4

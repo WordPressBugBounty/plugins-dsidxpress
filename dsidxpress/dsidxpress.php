@@ -6,7 +6,7 @@ Description: This plugin allows WordPress to embed live real estate data from an
 Text Domain: dsidxpress
 Author: Diverse Solutions
 Author URI: http://www.diversesolutions.com/
-Version: 3.19.0
+Version: 3.19.1
 */
 
 /*
