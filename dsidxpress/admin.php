@@ -1712,7 +1712,7 @@ if (isset($diagnostics["error"])) {
 					</tr>
 					<tr>
 						<th>
-							<label for="dsidxpress-EnableThirdPartyLogins">Allow visitors to log in via Facebook, Google:</label>
+							<label for="dsidxpress-EnableThirdPartyLogins">Allow visitors to log in via Google:</label>
 						</th>
 						<td>
 							<input type="checkbox" id="dsidxpress-EnableThirdPartyLoginsCB" size="50" <?php checked('true', strtolower($enableThirdPartyLogins)); ?> onclick="dsIDXpressOptions.OptionCheckBoxClick(this);" /><br />

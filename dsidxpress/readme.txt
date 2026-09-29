@@ -3,7 +3,7 @@ Contributors: diversesolutions
 Tags: IDX, MLS, real estate, realtor, listings, property search, real estate agent, housing, SEO, lead capture, mobile friendly, customizable, diverse solutions, market leader, ds, marketleader, rets, idxpress, dsidxpress
 Requires at least: 4.5.0
 Tested up to: 6.4
-Stable tag: 3.19.1
+Stable tag: 3.20.0
 Requires PHP: 5.4.0
 
 Easily add mobile and SEO-friendly MLS listings to your website to attract & engage visitors, plus lead capture tools to turn them into clients.
@@ -119,6 +119,9 @@ No. We require purchasing a Diverse Solutions IDX subscription in order to get a
 5. Turn visitors into leads with forms for scheduling showings, favoriting listings, saving property search criteria, and contacting you for more information.
 
 == Changelog ==
+
+= 3.20.0 =
+* Remove Facebook Login Support from Diverse Solutions IDX
 
 = 3.19.1 =
 * Change Plugin Name to Diverse Solutions IDX

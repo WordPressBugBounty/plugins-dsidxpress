@@ -401,12 +401,6 @@ HTML;
 					</div>
 				</div>
 				<div class="col-12">
-					<button class="dsidx-loginBtn dsidx-loginBtn--facebook" onclick="javascript:  dsidx.auth.LaunchSocialLogin('facebook','{$accountID}','{$searchSetupID}','{$redirectURL}',{$isConsent});" formnovalidate="">
-						Facebook
-					</button>
-				</div>
-				<div style="clear:both;padding: 1% 0;"></div>
-				<div class="col-12">
 					<button class="dsidx-loginBtn dsidx-loginBtn--google" onclick="javascript: return dsidx.auth.LaunchSocialLogin('google','{$accountID}','{$searchSetupID}','{$redirectURL}',{$isConsent});" formnovalidate="">
 						Google&nbsp;&nbsp;&nbsp;
 					</button>

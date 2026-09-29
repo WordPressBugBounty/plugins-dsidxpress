@@ -42,7 +42,7 @@ $adminUri = get_admin_url();
 		<div class="postbox" id="ds-idx-dialog-notice">
 			<div class="inside">
 				<p>
-					Choose to include or exclude social login options for Google and Facebook on your registration form.
+					Choose to include or exclude social login options for Google on your registration form.
 				</p>
 			</div>
 		</div>
